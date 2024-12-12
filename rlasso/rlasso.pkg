@@ -1,5 +1,19 @@
-d 'DEA': Data envelopment analysis
+d 'rlasso': Program for lasso and square-root lasso estimation with data-driven penalization (Rigorous lasso) Use rlasso With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f cvlasso.ado
+f cvlasso.sthlp
+f cvlassologit.ado
+f cvlassologit.sthlp
+f lasso2.ado
+f lasso2.sthlp
+f lasso2_p.ado
+f lassologit.ado
+f lassologit.sthlp
+f lassologit_p.ado
+f lassopack.sthlp
+f lassoutils.ado
+f rlasso.ado
+f rlasso.sthlp
+f rlasso_p.ado
+f rlassologit.ado
+f rlassologit.sthlp
