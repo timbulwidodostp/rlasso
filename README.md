@@ -1,6 +1,8 @@
 # rlasso
 Program for lasso and square-root lasso estimation with data-driven penalization (Rigorous lasso) Use rlasso With STATA 18
 
+https://www.youtube.com/watch?v=gFDbrWbGXpg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
